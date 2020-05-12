@@ -1,0 +1,58 @@
+body {
+  font-family: Sans-serif;
+  padding-left: 30%;
+  padding-right: 20%;
+  
+}
+h1{
+  padding-left: 10%;
+  padding-right: 30%;  
+}
+p {
+  padding-left: 10%
+}
+  form {
+ 
+  background: #f9f9f9;
+  border: 1px solid #c1c1c1;
+  max-width: 600px;
+  padding: 1em;
+}
+label {
+  font-size: 18px;
+  display: block;
+  padding-bottom: 10px;
+
+}
+input {
+display: block;
+box-sizing: border-box;
+width: 100%;
+
+}
+
+#button-area {
+ display: flex;
+ width: 50%;
+ height: 50%; 
+ text-align: left; 
+ 
+}
+
+.formdiv {
+  width: 50%;
+ height: 50%; 
+  display: flex;
+ text-align: center;
+  
+}
+
+textarea {
+  display: block;
+  width: 100%;  
+}
+
+
+
+
+
